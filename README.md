@@ -5,6 +5,26 @@
 -This is a REST API built using Node.js and Express.js for eCommerce. It provides endpoints for user authentication, product management,and order management.
 
 
+## Table of contents
+
+* [Install](#Installation)
+* [Features](#Features)
+* [Tech Stack](#Tech-Stack)
+* [Live Project](#Live-Project)
+* [ScreenShot](#ScreenShots)
+* [License](#License)
+
+## Install
+To run this project, install it locally using npm:
+
+```
+$ cd fashionfusion-frontend-team2-nitish-master
+$ npm install
+$ npm start
+```
+
+
+
 ## Features
 
 - User registration

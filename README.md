@@ -1,6 +1,8 @@
 
 ![image](https://github.com/Khandagale-Saurabh/fashionfusion-frontend-team2-nitish/assets/59130610/fff642da-a5fa-4b66-9f91-c0902d64cda0)   | Backend
-This is a REST API built using Node.js and Express.js for eCommerce. It provides endpoints for user authentication, product management,and order management.
+
+
+-This is a REST API built using Node.js and Express.js for eCommerce. It provides endpoints for user authentication, product management,and order management.
 
 
 ## Features
